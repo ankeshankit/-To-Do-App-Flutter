@@ -87,7 +87,7 @@ The application uses SQLite for local storage.
 ☁️ Cloud synchronization
 🔐 User authentication
 
-👨‍💻 Author
+Author
 
 Ankit Kumar
 
