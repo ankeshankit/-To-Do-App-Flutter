@@ -21,12 +21,12 @@ I created this app to learn and practice Flutter with SQLite. It is a simple Tod
 - SQLite
 - sqflite
 
-##dependencies:
-    flutter:
-      sdk: flutter
-    sqflite: ^2.4.3
-    path: ^1.9.1
-    path_provider: ^2.1.6
+## dependencies:
+     flutter:
+       sdk: flutter
+     sqflite: ^2.4.3
+     path: ^1.9.1
+     path_provider: ^2.1.6
 
 ## Getting Started
 
