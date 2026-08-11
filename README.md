@@ -21,12 +21,12 @@ I created this app to learn and practice Flutter with SQLite. It is a simple Tod
 - SQLite
 - sqflite
 
-dependencies:
-  flutter:
-    sdk: flutter
-  sqflite: ^2.4.3
-  path: ^1.9.1
-  path_provider: ^2.1.6
+##dependencies:
+    flutter:
+      sdk: flutter
+    sqflite: ^2.4.3
+    path: ^1.9.1
+    path_provider: ^2.1.6
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ flutter pub get
 flutter run
 
 
-How to Use
+##How to Use
 Add Todo
 Click the + button.
 Enter your Todo.
@@ -50,11 +50,11 @@ Click Add Todo.
 Your Todo will appear in the list.
 
 
-Complete Todo
+##Complete Todo
 
 Click the circular checkbox next to a Todo.
 
-When checked:
+##When checked:
 
 The checkbox becomes selected.
 The Todo text gets a line-through.
